@@ -45,4 +45,13 @@ Raise an issue on this repository asking to join ([invite me](https://github.com
 	- Click `Private` (the default) and set it to `Public`
 	
 		![Screenshot_20200916_231045](https://user-images.githubusercontent.com/17693494/93422970-26d9f580-f872-11ea-870d-4406db20e9d5.png)
-	
+
+## 🔗 Connect with Us
+[<img align="left" alt="Subham | Mail" width="80px" src="https://img.shields.io/badge/-Gmail-000000?logo=gmail&Color=0A66C2&style=flat-square" />][mail]
+[<img align="left" alt="Subham | Discord" width="92px" src="https://img.shields.io/badge/-Discord-000000?logo=discord&Color=0A66C2&style=flat-square" />][discord]
+[<img align="left" alt="Subham | Discord" width="92px" src="https://img.shields.io/badge/-Twitter-000000?logo=twitter&Color=0A66C2&style=flat-square" />][twitter]
+
+[mail]: mailto:devs.dungeon.community@gmail.com
+[discord]: https://discord.gg/ceMXzhfaka
+[twitter]: https://twitter.com/devs_dungeon
+
