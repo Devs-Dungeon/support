@@ -22,7 +22,7 @@ To join **DEVs Dungeon** GitHub Organization, click [here](https://github.com/De
     
       Feel free to check out other cool repositories of DEVs Dungeon 
       <a href='https://github.com/EddieHubCommunity'>here</a>.
----
+
 ## FAQ
 - **What is a GitHub Organization?**  
 Essentially it's a way to group many repositories in an entity called an organization. An organization also allows us to group people who contribute and are a part of the community. Some examples would be: [Netflix](https://github.com/Netflix), [Facebook](https://github.com/facebook) and of course [DEVs Dungeon](https://github.com/Devs-Dungeon).
@@ -45,7 +45,7 @@ Raise an issue on this repository asking to join ([invite me](https://github.com
 	- Click `Private` (the default) and set it to `Public`
 	
 		![Screenshot_20200916_231045](https://user-images.githubusercontent.com/17693494/93422970-26d9f580-f872-11ea-870d-4406db20e9d5.png)
-
+---
 ## 🔗 Connect with Us
 [<img align="left" alt="Subham | Mail" width="80px" src="https://img.shields.io/badge/-Gmail-000000?logo=gmail&Color=0A66C2&style=flat-square" />][mail]
 [<img align="left" alt="Subham | Discord" width="92px" src="https://img.shields.io/badge/-Discord-000000?logo=discord&Color=0A66C2&style=flat-square" />][discord]
