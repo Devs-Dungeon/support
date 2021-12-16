@@ -19,7 +19,7 @@ jobs:
       - uses: Devs-Dungeon/gh-action-community/src/welcome@main
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          issue-message: '<h1>It''s great having you contribute to this project</h1> Welcome to the DEVs Dungeon Community :nerd_face:'
-          pr-message: '<h1>It''s great having you contribute to this project</h1> Welcome to the DEVs Dungeon Community :nerd_face:'
-          footer: 'If you would like to continue contributing to open source and would like to do it with an awesome inclusive community, you should join our <a href="https://discord.gg/ceMXzhfaka">Discord Server</a> and our <a href="https://github.com/Devs-Dungeon">GitHub Organisation</a> - we help and encourage each other to contribute to open source little and often 🤓 . Any questions let us know.'
+          issue-message: '<h1>Welcome to the DEVs Dungeon Community :nerd_face:</h1>'
+          pr-message: '<h1>Welcome to the DEVs Dungeon Community :nerd_face:</h1>'
+          footer: 'If you would like to collaborate on Open-Source Projects, Kaggle, CodeChef & Codeforces Competitions, and would like to do it with an amazing community, then join our <a href="https://discord.gg/ceMXzhfaka">Discord Server</a> and our <a href="https://github.com/Devs-Dungeon">GitHub Organisation</a>. Here we help, guide and encourage each other to contribute & collaborate on various projects & hackathons 😎.'
   
