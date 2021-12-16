@@ -1,0 +1,20 @@
+name: Portfolio Review
+description: Please review my Portfolio on a livestream
+title: "[REVIEW]"
+labels: [portfolio review, live stream review]
+body:
+  - type: markdown
+    attributes:
+      value: "**Please ensure that you don't have any personal details in your Portfolio that you don't want to share publicly.**"
+  - type: input
+    id: link
+    attributes:
+      label: Portfolio link
+      placeholder: "e.g.: https://<your-username>.github.io/portfolio"
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        You can also join our Discord community [here](https://discord.gg/ceMXzhfaka)
+        Feel free to check out other cool repositories of the DEVs Dungeon Community [here](https://github.com/Devs-Dungeon)
