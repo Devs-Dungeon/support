@@ -1,0 +1,28 @@
+name: Ideas
+description: Have a new idea or feature request
+title: "[FEATURE REQUEST] <description here>"
+labels: [enhancement]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description of feature request, idea
+    validations:
+      required: true
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Add (multiple) screenshot links (if applicable)
+    validations:
+      required: false
+  - type: textarea
+    id: context
+    attributes:
+      label: Add any other context about the feature request here
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: |
+        You can also join our Discord community [here](https://discord.gg/ceMXzhfaka)
+        Feel free to check out other cool repositories of the DEVs Dungeon Community [here](https://github.com/Devs-Dungeon)
