@@ -34,17 +34,17 @@ Raise an issue on this repository asking to join ([invite me](https://github.com
 - **How do I set the Organization to Public?**
 	- Navigate to our community page: https://github.com/Devs-Dungeon
 	
-	- Click on the highlighted area:
+	- Click on the highlighted area `People`:
 	
-		![screenshot](https://user-images.githubusercontent.com/13745974/101496938-47da5000-3962-11eb-8ab3-8fd3ea327d1d.png)
+		![screenshot](https://github.com/Devs-Dungeon/support/blob/main/.github/IMAGES/people.PNG)
 	
 	- Enter your username in the highlighted search bar:
 	
-		![screenshot](https://user-images.githubusercontent.com/13745974/102218327-b3c63680-3ed5-11eb-9295-aafa5e59ebfd.png)
+		![screenshot](https://github.com/Devs-Dungeon/support/blob/main/.github/IMAGES/search.PNG)
 	
 	- Click `Private` (the default) and set it to `Public`
 	
-		![Screenshot_20200916_231045](https://user-images.githubusercontent.com/17693494/93422970-26d9f580-f872-11ea-870d-4406db20e9d5.png)
+		![Screenshot_20200916_231045](https://github.com/Devs-Dungeon/support/blob/main/.github/IMAGES/public.PNG)
 ---
 ## 🔗 Connect with Us
 [<img align="left" alt="Subham | Mail" width="80px" src="https://img.shields.io/badge/-Gmail-000000?logo=gmail&Color=0A66C2&style=flat-square" />][mail]
