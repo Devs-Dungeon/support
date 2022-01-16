@@ -4,25 +4,6 @@
 
 To join **DEVs Dungeon** GitHub Organization, click [here](https://github.com/Devs-Dungeon/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization)
 
- ## Guide
-
-   - Actions go under [issues](https://github.com/Devs-Dungeon/support/issues)
-   
-      - Bugs
-      
-      - Add me to the organization 
-      
-   - Miscellaneous go under [Discussions](https://github.com/Devs-Dungeon/support/discussions)
-   
-     - Questions
-     
-     - Ideas (once discussed, an Issue could be created and linked to the Discussion thread)
-	 
-	 - Showcase of Open Source Portfolios to get feedback from community members.
-    
-      Feel free to check out other cool repositories of DEVs Dungeon 
-      <a href='https://github.com/EddieHubCommunity'>here</a>.
-
 ## FAQ
 - **What is a GitHub Organization?**  
 Essentially it's a way to group many repositories in an entity called an organization. An organization also allows us to group people who contribute and are a part of the community. Some examples would be: [Netflix](https://github.com/Netflix), [Facebook](https://github.com/facebook) and of course [DEVs Dungeon](https://github.com/Devs-Dungeon).
