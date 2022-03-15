@@ -12,6 +12,21 @@ jobs:
           organization: Devs-Dungeon
           label: invite me to the organisation
           repo-token: ${{ secrets.GITHUB_TOKEN }}
-          comment: '<b>Invitation sent to join the DEVs Dungeon GitHub Organisation. Welcome to the DEVs Dungeon Community 🎉</b><br><br>Don''t forget after accepting to make it <b>public</b> so it appears on your GitHub profile for everyone else to see.<br>You can do this by finding your name in the <a href=https://github.com/orgs/Devs-Dungeon/people>GitHub Organisation list</a> and change the dropdown to public!<br><br>Also join our <b><a href="https://discord.gg/ceMXzhfaka">Discord Server Community</a></b> where you''ll find:<br>:sos: <b>Mentors</b> to help you in your Domain <b>24/7</b><br>:gift: Community <b>Events</b> & Win <b>Cash Prizes, Goodies & Swags!</b><br>:man_technologist: Separate <b>Kaggler</b> & <b>Codechef</b> Community<br>:free: Free <b>Udemy</b> & other Courses <b>Coupons</b><br>:tada: Fun <b>Bots & Games</b> to Play'
+          comment: |
+            <div align="center">
+            <img src="https://user-images.githubusercontent.com/51391473/138764839-1011988e-66f2-4427-a8fc-e0380971df29.gif">
+            <br>
+            <h1>Welcome to DEVs Dungeon 🎉</h1>
+            </div>
+            <br>
+            📌 Invitation sent to join the <b>GitHub Organization</b>. Check your mail to accept the invitation! 
+            <h2>📌 <ins>About Us</ins></h2>
+            <p>
+              ⭐ <b>3 C's</b> of our Community: Connect, Collaborate and Create! <br>
+              ⭐ We are an open <b>Learning Community</b> dedicated towards developers across the world! <br>
+              ⭐ We are a community of <b>5k+ Developers</b> from across the world and use <b><a href="https://discord.gg/GqzWmqDKzU">Discord</a></b> as our primary platform for interaction! <br>
+            </p>
+            
+            Check out our [Bio](https://devs-dungeon.github.io/bio/) and [Discord](https://discord.apihacks.co) to get involved with us! 🚀
         env:
           INVITE_TOKEN: ${{ secrets.INVITE_TOKEN }}
